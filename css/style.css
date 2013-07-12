@@ -36,7 +36,7 @@ caption, th {
 /*=================UNIVERSAL+RESET==================*/
 
 body {
-	background: #111111;
+	background: #000;
 	padding: 0;
 	margin: 0 auto;
 	font: 16px 'Share', 'Helvetica Neue';
@@ -98,30 +98,11 @@ h3{
 	background: white;
 	clear: left;
 }
-#about_wrapper { 
-	background: #eee;
-	clear: left;
-	height: 1200px;
-	padding-top: 102px;
-}
-#services_wrapper { 
-	background: #ddd;
-	clear: left;
-	height: 1200px;
-	padding-top: 102px;
 
-}
 #gallery_wrapper { 
-	background: #eee;
+	background: #000;
 	clear: left;
 	height: 1200px;
-	padding-top: 102px;
-
-}
-#contact_wrapper { 
-	background: #ddd;
-	clear: left;
-	height: 650px;
 	padding-top: 102px;
 
 }
